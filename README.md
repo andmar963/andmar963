@@ -118,8 +118,6 @@ Soy estudiante avanzada de Ingeniería en Computación con experiencia como desa
   <a href="https://arcade.makecode.com/" target="_blank"> <img alt="MakeCode Arcade" src="https://img.shields.io/badge/MakeCode Arcade-%23D83B01.svg?logo=microsoft&logoColor=white"> </a> 
   &emsp; 
   <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979B.svg?logo=arduino&logoColor=white"> </a> 
-&emsp; 
-  <a href="https://itch.io/" target="_blank"> <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"> </a> 
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Mi contacto</b>
