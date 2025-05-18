@@ -3,24 +3,23 @@
 
 <br/>
 
-<picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mi:</b>
  
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
  <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
-  <img src="[https://img.shields.io/badge/Languages-English-dodgerblue](https://64.media.tumblr.com/b39a0d08b328820d75b7e699dce49b89/tumblr_n1dkqfuJmZ1qc2xm1o1_500.gifv)" />
-</p>
+  <img src="[[https://img.shields.io/badge/Languages-English-dodgerblue](https://64.media.tumblr.com/b39a0d08b328820d75b7e699dce49b89/tumblr_n1dkqfuJmZ1qc2xm1o1_500.gifv)](https://img.shields.io/badge/Focus-Frontend%20Developer-blue
+)" />
 
-Soy estudiante avanzada de Ingeniería en Computación con experiencia como desarrolladora web freelance, educación tecnológica y diseñadora de experiencias digitales educativas. Me apasiona aprender y crear soluciones innovadoras, productivas y creativas que generen impacto.
+Me desempeño como desarrolladora web freelance, educación tecnológica y diseñadora de experiencias digitales educativas. Me apasiona aprender y crear soluciones innovadoras, productivas y creativas que generen impacto.
 * **Estoy interesada en el Web designing, desarrollo de videojuegos y experiencias digitales educativas.**
 - 🌱 Actualmente aprendiendo...
   - Ciberseguridad
-  - Unreal Engine
   - y nuevas tendencias en UX/UI.
 - Fuera de la tecnología, me encanta: Leer novelas, el crochet y salir a caminar.
-<br>
+</br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills:</b>
 
 <p align="center">
 
@@ -120,7 +119,7 @@ Soy estudiante avanzada de Ingeniería en Computación con experiencia como desa
   <a href="https://www.arduino.cc/" target="_blank"> <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979B.svg?logo=arduino&logoColor=white"> </a> 
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Mi contacto</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Mis redes:</b>
 
 <p align="left"> 
 &emsp; 
