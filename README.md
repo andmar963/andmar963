@@ -122,7 +122,14 @@ Soy estudiante avanzada de Ingeniería en Computación con experiencia como desa
   <a href="https://itch.io/" target="_blank"> <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"> </a> 
 </p>
 
-</div>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Mi contacto</b>
 
-------
-[Mahdiiye](https://github.com/Mahdiiye)
+<p align="left"> 
+&emsp; 
+<a href="https://www.linkedin.com/in/marisolrivera96/" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/> </a> 
+&emsp; 
+<a href="mailto:mariversol96gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white"/> </a> 
+&emsp; 
+<a href="https://www.instagram.com/maryriversol/" target="_blank"> <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white"/> </a> </p>
+
+</div>
